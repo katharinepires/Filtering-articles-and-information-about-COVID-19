@@ -26,8 +26,10 @@ The importance of this type of project is precisely to facilitate research by pr
 
 The database size is very large, so I will leave the link for the most compact version I used. The current database on the Kaggle website is more up to date than the data I used for this project, but the aim of this project is to provide learning and also learn, I hope you like the code, this was the biggest code ever I've worked so far.
 
+## UPADTE: Some times the code don't load, so I will get here the link of the code in my Google Colab!!
 Links:
 
 [Database used](https://drive.google.com/file/d/1KctkbAx9rjUStJJHZWlOrIAPmUAdOOR4/view?usp=sharing) // 
 [My Kaggle Profile](https://www.kaggle.com/katharinepires/account) //
-[Linkedin](https://www.linkedin.com/in/katharine-pires-53b849155/)
+[Linkedin](https://www.linkedin.com/in/katharine-pires-53b849155/) //
+[Google Colab of the project](https://colab.research.google.com/drive/1acfo6NWdJBherzdcpQzBL7-M7CXMeFCZ?usp=sharing)
